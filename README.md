@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" > Hi, I am Du-F23</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" > Hi, I am Du-F23</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Du-F23&show_icons=true&theme=dark)
 
