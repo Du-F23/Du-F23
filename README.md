@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Du-F23&show_icons=true&theme=dark)
 
+![Hello World](https://github-readme-stats.vercel.app/api/top-langs/?username=Du-F23&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+
 ### Works
 
 [The NoName Project](https://laravel-production-0a72.up.railway.app/) Project building in PHP with [Laravel](https://laravel.com/)
