@@ -7,15 +7,6 @@ Backend Developer
 * ✉️  You can contact me at [al2222010329@gmail.com](mailto:al2222010329@gmail.com)
 
 
-### Works
-
-[The NoName Project](https://laravel-production-0a72.up.railway.app/) Project building in PHP with [Laravel](https://laravel.com/)
-
-[TNNP](https://tnnp-react-production.up.railway.app/) Project building in JavaScript with [React JS](https://es.reactjs.org/)
-
-<a href="https://www.github.com/Du-F23" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Du-F23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 Working in **Linux** using [Archcraft](https://archcraft.io/), [openSUSE](https://es.opensuse.org/Bienvenidos_a_openSUSE.org)
