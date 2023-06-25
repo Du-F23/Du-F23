@@ -9,7 +9,7 @@
 Working in **Linux** using [Garuda Linux](https://garudalinux.org/)
 
 &nbsp;
-&nbsp;
+![https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white]()
 
 ### React Native Projects
 
@@ -32,8 +32,6 @@ Working in **Linux** using [Garuda Linux](https://garudalinux.org/)
 [GitHub - Du-F23/suvs](https://github.com/Du-F23/suvs)
 
 
-
-![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 ### Socials
 
