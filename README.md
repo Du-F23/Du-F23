@@ -9,7 +9,7 @@
 Working in **Linux** using [Garuda Linux](https://garudalinux.org/)
 
 &nbsp;
-![https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white]()
+![](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
 
 ### React Native Projects
 
